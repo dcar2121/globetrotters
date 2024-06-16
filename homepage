@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Globetrotter - Explore the World Together</title>
+    <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <!-- Navigation Bar -->
+    </header>
+    <main>
+        <section class="hero">
+            <!-- Hero Image and Tagline -->
+        </section>
+        <section class="features">
+            <!-- Cards for Each Feature -->
+        </section>
+        <section class="getting-started">
+            <!-- Getting Started Guide -->
+        </section>
+        <section class="contributing">
+            <!-- Contributing Guide -->
+        </section>
+    </main>
+    <footer>
+        <!-- Footer Content -->
+    </footer>
+    <!-- Link to JavaScript file -->
+</body>
+</html>
